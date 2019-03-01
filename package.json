@@ -1,0 +1,10 @@
+{
+  "name": "panic-palette-dark",
+  "description": "Panic's theme with a dark side",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuisRodriguezLD/panic-palette-dark.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.0"
+}
