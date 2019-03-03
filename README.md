@@ -2,7 +2,11 @@
 
 Do you wanna have the coolest theme of all time?
 
-Panic Palette Dark uses the proper collors to create a theme you can not do without.
+Panic Palette Dark uses the proper colors to create a theme you can not do without.
+
+With a general dark based theme, and bright colored variables and elements, this theme  
+is ideal for those who spent many hours in front of their monitors because it is both  
+relaxing and distinct at the same time
 
 ```
 // General colors
@@ -22,7 +26,12 @@ Find the package on the official site of atom:
 
 ## Installation 
 
-You can install the package from the official Atom Package Installer
+You can install the package from the official Atom Package Installer:  
+
+- Go to **Settings > Install**  
+- Search for `panic-palette-dark` and click **Install**  
+- Go to **Settings > Themes** and choose **Panic Palette Dark** from the dropdown menu  
+
 
 <img src="screenshot_2.jpg">
 
